@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:black"></rect>
+<text transform="translate(4,120)" font-size="30" style="fill:rgb(66, 191, 250)">district</text>
+<text transform="translate(63,139)" font-size="24" style="fill:rgb(66, 191, 250)">Inc</text>
+<text transform="translate(41,59)" font-size="20" style="fill:rgb(67, 191, 251)">Act</text>
+<text transform="translate(29,34)" font-size="16" style="fill:rgb(67, 191, 251)">action</text>
+<text transform="translate(54,72)" font-size="16" style="fill:rgb(67, 191, 251)">brought</text>
+<text transform="translate(9,89)" font-size="16" style="fill:rgb(66, 191, 250)">complaint</text>
+<text transform="translate(91,35)" font-size="14" style="fill:rgb(67, 191, 251)">patent</text>
+<text transform="translate(24,17)" font-size="14" style="fill:rgb(67, 191, 251)">internet</text>
+<text transform="translate(92,49)" font-size="14" style="fill:rgb(67, 191, 251)">website</text>
+<text transform="translate(1,134)" font-size="14" style="fill:rgb(65, 191, 250)">name</text>
+<text transform="translate(16,76) rotate(-90)" font-size="14" style="fill:rgb(66, 191, 250)">statement</text>
+<text transform="translate(6,142)" font-size="10" style="fill:rgb(66, 191, 250)">C section</text>
+<text transform="translate(35,129)" font-size="8" style="fill:rgb(66, 191, 251)">Civil</text>
+<text transform="translate(95,18)" font-size="8" style="fill:rgb(67, 191, 251)">establish</text>
+<text transform="translate(76,53)" font-size="8" style="fill:rgb(67, 191, 251)">use</text>
+<text transform="translate(105,85)" font-size="8" style="fill:rgb(67, 191, 251)">failed</text>
+<text transform="translate(107,99)" font-size="8" style="fill:rgb(67, 191, 251)">Doe</text>
+<text transform="translate(118,127)" font-size="8" style="fill:rgb(67, 191, 251)">Game</text>
+<text transform="translate(24,76) rotate(-90)" font-size="8" style="fill:rgb(67, 191, 251)">domain</text>
+<text transform="translate(22,40)" font-size="7" style="fill:rgb(67, 191, 251)">summary judgment</text>
+<text transform="translate(118,145)" font-size="6" style="fill:rgb(66, 191, 250)">section</text>
+<text transform="translate(76,145)" font-size="6" style="fill:rgb(66, 191, 250)">copyright</text>
+<text transform="translate(49,94)" font-size="6" style="fill:rgb(67, 191, 251)">plaintiffs</text>
+<text transform="translate(104,53)" font-size="6" style="fill:rgb(67, 191, 251)">company</text>
+<text transform="translate(103,6)" font-size="6" style="fill:rgb(66, 191, 251)">information</text>
+<text transform="translate(111,133)" font-size="6" style="fill:rgb(66, 191, 250)">violation</text>
+<text transform="translate(33,75) rotate(-90)" font-size="6" style="fill:rgb(67, 191, 251)">pursuant</text>
+<text transform="translate(145,99) rotate(-90)" font-size="6" style="fill:rgb(66, 191, 250)">speculative</text>
+<text transform="translate(145,39) rotate(-90)" font-size="6" style="fill:rgb(66, 191, 250)">standing</text>
+<text transform="translate(77,58)" font-size="5" style="fill:rgb(67, 191, 251)">alleging</text>
+<text transform="translate(40,100)" font-size="5" style="fill:rgb(67, 191, 251)">fact</text>
+<text transform="translate(32,146)" font-size="5" style="fill:rgb(66, 192, 250)">motion</text>
+<text transform="translate(20,34) rotate(-90)" font-size="5" style="fill:rgb(63, 191, 251)">photographs</text>
+<text transform="translate(80,99)" font-size="5" style="fill:rgb(67, 191, 251)">posted</text>
+<text transform="translate(123,60)" font-size="5" style="fill:rgb(67, 191, 251)">Code</text>
+<text transform="translate(58,5)" font-size="5" style="fill:rgb(65, 191, 251)">device</text>
+<text transform="translate(68,21)" font-size="4" style="fill:rgb(67, 191, 251)">Loss Recovery</text>
+<text transform="translate(99,89)" font-size="4" style="fill:rgb(67, 191, 251)">Recovery Statute</text>
+</svg>

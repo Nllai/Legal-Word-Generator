@@ -1,0 +1,42 @@
+People v. Moses, 055621
+Reversed for human trafficking of a minor but affirmed in all other respects. Defendant was convicted of pimping a minor and human trafficking. Defendant argued that the human trafficking count should be reversed because the alleged minor was actually an undercover police officer. The appeals court agreed and remanded for re-sentencing.
+White v. Square, Inc., 249248
+The issue is whether or not California’s Unruh Civil Rights Act can be used to bring a claim against a business when the Plaintiff visits the business’s website with the intention of using its services only to be allegedly denied full and equal access to its services and then Plaintiff leaves without entering into an agreement with the service provider. The Court answered in the affirmative.
+Khrapunov v. Prosyankin, 18-16254
+Vacated and remanded. Plaintiff filed a 28 U.S.C. § 1782 application seeking issuance of a subpoena to Google, Inc. for the disclosure of certain subscriber information to assist him in ongoing litigation in England. The district court granted Plaintiff’s application for the information from Google. Concluded that there was doubt whether 1782 could be used in a foreign proceeding and vacated and remanded for further proceedings in the district court.
+People v. Wright, 082729
+Affirmed order granting probation with amendments. Defendant admitted to acquiring personal identifying information with intent to defraud. The trial court placed Defendant on probation with various terms and conditions. Defendant appealed the conditions. Appeals court affirmed, but struck certain fees.
+In re US Office of Personnel Management Data Security Breach Litigation, 17-5217
+Revived claims that the U.S. Office of Personnel Management's woefully inadequate cybersecurity practices enabled hackers to steal personal data about millions of past and present federal employees. Reversed a dismissal in relevant part, in a lawsuit brought by labor unions and others arising out of a 2014 cyberattack.
+Duguid v. Facebook, Inc., 17-15320
+Struck down as unconstitutional a 2015 amendment to the federal Telephone Consumer Protection Act that created a debt-collection exception. The issue arose in a consumer lawsuit alleging that Facebook unlawfully sent text messages using an automated telephone dialing system (to alert users, as a security precaution, when their account was accessed from an unrecognized device). Reversed the dismissal of a proposed class action.
+Marshall's Locksmith Service v. Google, LLC, 18-7018
+Held that Google, Microsoft and Yahoo were not liable for allegedly conspiring to flood the market of online search results with information about so-called scam locksmiths, in order to extract additional advertising revenue. The Communications Decency Act barred this lawsuit brought by more than a dozen locksmith companies. Affirmed a dismissal.
+In re Holl, 18-70568
+Held that a retail customer must arbitrate a dispute with a package delivery company because the online contract he electronically signed contained an enforceable arbitration clause. Denied a writ of mandamus, in this proposed class action lawsuit challenging pricing practices.
+BWP Media USA Inc. v. Polyvore, Inc., 16‐2825
+Revived a media company's claim that a popular website infringed its copyright in certain photographs of famous celebrities. The website, which enables users to create and share digital photo collages, has a clipper tool that lets users clip images from other websites. Reversed summary judgment in relevant part, in this case involving the Digital Millennium Copyright Act.
+Erickson Productions, Inc. v. Kast, 15-16801
+Affirmed that a business owner contributorily infringed copyrighted photographs by displaying them on his website. However, remanded for further proceedings on whether the infringement was willful.
+Robinson v. Hunt County, Texas, 18-10238
+Revived a citizen's claim that a sheriff's office Facebook page unconstitutionally censored speech. She claimed that her controversial comments were deleted and she was banned from the site, in violation of her First Amendment rights. Vacated a dismissal in relevant part.
+VHT, Inc. v. Zillow Group, Inc., 17-35587
+In a copyright infringement lawsuit against the real estate website Zillow, reversed a judgment after a jury trial, in part. A photography studio claimed that Zillow violated its copyrights in photographs of homes.
+HomeAway.com, Inc. v. City of Santa Monica, 18-55367
+Upheld a beach town's ordinance imposing restrictions on companies, such as Airbnb Inc., that host online platforms for short-term vacation rentals. The internet companies claimed that the ordinance impermissibly infringed their First Amendment rights or was preempted by federal law. Disagreeing, the Ninth Circuit affirmed the dismissal of their lawsuit seeking to enjoin the ordinance.
+US v. Ayelotan, 17-60397
+Affirmed the convictions of three individuals for operating an international romance scam, in which they used online dating methods to dupe unsuspecting victims into sending money to them. The charges included conspiracy to commit wire fraud, bank fraud and identify theft.
+US v. Lord, 17-30486
+Affirmed the conviction of two bitcoin dealers for conspiracy to operate an unlicensed money servicing business. The father and son sought to withdraw their guilty pleas, stating that they now believed their cryptocurrency activities required no license. Upheld the denial of their motion to withdraw their guilty pleas.
+Patel v. Zillow, Inc., 18-2130
+Held that homeowners could not proceed with a lawsuit against the real estate website Zillow, which allegedly estimated their homes to have inaccurately low values, thus making it difficult for them to obtain favorable sales prices. Affirmed a dismissal of their unfair trade practice and other claims.
+Rall v. Tribune 365 LLC, 284566
+Held that a political cartoonist and blogger could not proceed with his lawsuit alleging that a newspaper wrongfully terminated his employment and also defamed him by telling its readers that it had serious questions about the accuracy of one of his blog posts. Affirmed the granting of the newspaper's anti-SLAPP motion.
+Moss v. Princip, 16-10605
+In a dispute over ownership of a lucrative YouTube channel, held that the district court had subject-matter jurisdiction and did not err in dismissing a nondiverse partnership as dispensable. Also affirmed a judgment entered on a jury verdict.
+Robles v. Domino's Pizza LLC, 17-55504
+Revived a lawsuit alleging that Domino's Pizza's website and mobile application were not fully accessible to blind or visually impaired persons. The plaintiff, a blind man, alleged that he had no way to order pizzas or other food online. Reversed the dismissal of his claims under the Americans with Disabilities Act and California law.
+Keep Chicago Livable v. City of Chicago, 17-1656
+Remanded for further findings as to whether a citizen group and six individuals had legal standing to challenge the constitutionality of Chicago's recently enacted Shared Housing Ordinance, which regulates home-sharing activities, including services offered by companies like Airbnb.
+
+
